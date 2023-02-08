@@ -16,7 +16,7 @@ public class sample3 {
     System.out.println(10/4);
 
     //小数の扱い方
-    System.out.println(3.14+10);
-    //結果→13.14
+    System.out.println(3.14+10); //結果→13.14
+
   }
 }
