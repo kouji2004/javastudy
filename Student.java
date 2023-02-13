@@ -1,6 +1,4 @@
-package object;
-
-public class Student {
+ class Student {
   //属性（変数）
   String name;
   int engScore;
